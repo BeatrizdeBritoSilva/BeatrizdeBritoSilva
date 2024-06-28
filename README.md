@@ -1,4 +1,8 @@
-## Hi there 👋
+## Oii 👋
+
+Meu nome é Beatriz de Brito Silva
+
+- Estou estudando na Alura
 
 <!--
 **BeatrizdeBritoSilva/BeatrizdeBritoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
